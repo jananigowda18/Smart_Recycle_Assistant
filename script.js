@@ -1,4 +1,4 @@
-const API_URL = "https://smart-recycling-assistant-api.onrender.com";
+const API_URL = "http://127.0.0.1:5000/predict";
 
 document.addEventListener("DOMContentLoaded", function () {
   const uploadBtn = document.getElementById("uploadBtn");
